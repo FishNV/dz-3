@@ -21,7 +21,7 @@
       "name": "John Snow",
       "age": 28,
       "legend":"John actually is not Snow, but Targaryen",
-      "story": "",
+      "story": null,
       "country": {
         "name": "Poland",
         "language": "Polish"
